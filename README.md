@@ -1,4 +1,4 @@
-## ✨ Welcome to my space ✨ ##
+ ## ✨ Welcome to my space ✨ ## 
 
 <img src="https://github.com/Art3mis7082/Art3mis7082/blob/main/wow-interesting.gif" width="200px" align="right">
 
@@ -11,11 +11,11 @@
 
 _C & C++ best programming languages_
 
+<pre>
+for (love == 1; love >= ∞; love ++){  
+- Only magic things - 
+}
+</pre>
 
 
-``` YAML
-for (love == 1; love >= ∞; love ++){
-  - Only magic things -    
-} 
-```
 > ### :star2: Please don't forget to visit my pinned repositories that have interesting things :star2: ###
