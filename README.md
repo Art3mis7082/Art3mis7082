@@ -1,4 +1,4 @@
- <img src="https://github.com/Art3mis7082/Art3mis7082/blob/main/wow-interesting.gif" width="230px" align="right">
+ <img src="https://github.com/Art3mis7082/Art3mis7082/blob/main/wow-interesting.gif" width="180px" align="right">
  
  ## ✨ Welcome to my space ✨ ## 
 
