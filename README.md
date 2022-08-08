@@ -18,4 +18,4 @@ for (love == 1; love >= ∞; love ++){
 </pre>
 
 
-> ### :star2: Please don't forget to visit my pinned repositories that have interesting things :star2: ###
+> ### :star2: Please don't forget to visit my pinned repositories, they have interesting things :star2: ###
