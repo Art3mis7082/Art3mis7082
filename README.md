@@ -9,4 +9,10 @@
 
 _C & C++ best programming languages_
 
+<img src="https://github.com/Art3mis7082/Art3mis7082/blob/main/wow-interesting.gif" width="385px" align="center">
 
+``` YAML
+for (love == 1; love >= ∞; love ++){
+  - Only magic things -    
+} 
+```
