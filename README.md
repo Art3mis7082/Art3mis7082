@@ -12,7 +12,7 @@
 _C & C++ best programming languages_
 
 <pre>
-for (love == 1; love >= ∞; love ++){  
+for (love = 1; love = ∞; love ++){  
 - Only magic things - 
 }
 </pre>
