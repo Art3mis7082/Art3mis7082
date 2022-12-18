@@ -1,6 +1,6 @@
  <img src="https://github.com/Art3mis7082/Art3mis7082/blob/main/wow-interesting.gif" width="190px" align="right">
  
- ## ✨ Welcome to my space ✨ ## 
+ ## ✨ Welcome everyone ✨ ## 
 
 - :sparkler: Cats and coffee with milk are everything for me
 - :memo: I'm currently learning computer science
