@@ -4,7 +4,7 @@
 
 - :sparkler: Cats and coffee with milk are everything for me
 - :memo: I'm currently learning computer science
-- :flags: I love to work in group
+- :flags: I love to ~work in group~ sleep
 - :clipboard: 49 wpm
 - :space_invader: I play many videogames
 - :book: Learning more about windows and microsoft 
