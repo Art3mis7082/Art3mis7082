@@ -9,7 +9,7 @@
 - :space_invader: I play many videogames
 - :book: Learning more about windows and microsoft 
 
-_C/C++ best programming languages_
+
 
 <pre>
 for (love = 1; love = ∞; love ++){  
