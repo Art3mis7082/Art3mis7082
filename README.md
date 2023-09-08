@@ -2,7 +2,7 @@
  
  ## ✨ Welcome everyone ✨ ## 
 
-- :sparkler: Cats and coffee with milk are everything for me
+- :sparkler: Cats and coffee are everything for me
 - :memo: I'm currently learning computer science
 - :flags: I love to ~work in group~ sleep
 - :clipboard: 49 wpm
