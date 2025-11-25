@@ -4,7 +4,7 @@
 
 - :sparkler: Cats and coffee are everything for me
 - :memo: I'm currently learning computer science
-- :flags: I love to ~work in group~ sleep
+- :flags: I love new challenges
 - :clipboard: 283 cpm / 57 wpm
 - :space_invader: I play videogames on my free time
 - :book: Learning more about computational chemistry
